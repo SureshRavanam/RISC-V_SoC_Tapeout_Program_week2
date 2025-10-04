@@ -24,7 +24,7 @@ Key features of SoCs:
 - High performance with reduced communication delays between components.  
 - Optimized for **power efficiency** and **scalability**.  
 - Designed for a wide variety of applications, from mobile phones and IoT devices to high-performance computing.  
-
+![SoC-Block](https://github.com/user-attachments/assets/54b5e8f9-f03d-4b53-a535-859360589119)  
 SoCs are used in almost every modern device, including smartphones, tablets, embedded controllers, and advanced processors like Apple’s M1 or Qualcomm Snapdragon.  
 
 ---
@@ -50,6 +50,12 @@ This tightly coupled integration makes SoCs highly efficient and powerful, suita
 ## Why BabySoC?  
 
 The **BabySoC (VSDBabySoC)** is a simplified model of a real-world SoC, designed for learning and educational purposes. It uses minimal building blocks while retaining essential elements of a modern SoC. This makes it easier to simulate, analyze, and understand SoC design at a fundamental level.  
+
+
+
+This structure helps understand both **digital processing** and **analog interfacing**, making it a perfect entry-level SoC.  
+
+![VSDBabySoC Block](https://github.com/user-attachments/assets/38253bb7-b658-496d-a043-15402219e089)  
 
 BabySoC integrates three major IP blocks:  
 
